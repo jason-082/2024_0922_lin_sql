@@ -1,3 +1,3 @@
- CREATE TABLE abc(
+CREATE TABLE abc(
     id SERIAL PRIMARY KEY
- );
+);
