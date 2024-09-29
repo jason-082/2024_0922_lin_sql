@@ -1,6 +1,5 @@
 DROP TABLE IF EXISTS hospital;
 
-
 CREATE TABLE IF NOT EXISTS hospital (
     序號 SERIAL PRIMARY KEY,
     直轄市或省轄縣市 VARCHAR(5) NOT NULL,
