@@ -1,5 +1,6 @@
 DROP TABLE IF EXISTS hospital;
 
+
 CREATE TABLE IF NOT EXISTS hospital (
     id SERIAL PRIMARY KEY,
     state VARCHAR(5) NOT NULL,
